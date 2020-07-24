@@ -1,0 +1,35 @@
+Category	Fermentation_type	Region	Evenness (Pielou index)	Richness (Menhinick index)	Diversity (Simpson index)	Preferential yeast (Py)
+Smoked Beer	Cold fermented	Other	High Evenness	High Richness	High Diversity	Ale Dry, Lager Dry
+Amber Bitter European Lager	Cold fermented	Europe	High Evenness	Low Richness	High Diversity	Lager Dry
+Amber Malty European Lager	Cold fermented	Europe	High Evenness	Low Richness	High Diversity	Lager Dry
+Strong European Beer	Cold fermented	Europe	Low Evenness	High Richness	High Diversity	Ale Dry, Lager Dry
+Dark European Lager	Cold fermented	Europe	High Evenness	Low Richness	Low Diversity	Lager Dry, Lager Liquid
+Czech Lager	Cold fermented	Czech Republic	High Evenness	Low Richness	Low Diversity	Lager Dry
+Pale Malty European Lager	Cold fermented	Europe	High Evenness	Low Richness	Low Diversity	Lager Dry
+International Lager	Cold fermented	Other	Low Evenness	Low Richness	Low Diversity	Lager Dry
+Pale Bitter European Beer	Cold fermented	Europe	Low Evenness	Low Richness	Low Diversity	Ale Dry, Ale Liquid, Lager Dry
+American Wild Ale	Hot fermented	North America	High Evenness	High Richness	High Diversity	Ale Dry
+Historical Beer	Hot fermented	Other	High Evenness	High Richness	High Diversity	Ale Dry
+Strong British Ale	Hot fermented	UK	High Evenness	High Richness	High Diversity	Ale Dry
+Wood Beer	Hot fermented	Other	High Evenness	High Richness	High Diversity	Ale Dry
+Brown British Beer	Hot fermented	UK	High Evenness	Low Richness	High Diversity	Ale Dry
+Trappist Ale	Hot fermented	Belgium	High Evenness	Low Richness	High Diversity	Ale Liquid
+European Sour Ale	Hot fermented	Europe	Low Evenness	High Richness	High Diversity	Ale Dry
+Fruit Beer	Hot fermented	Other	Low Evenness	High Richness	High Diversity	Ale Dry
+Specialty Beer	Hot fermented	Other	Low Evenness	High Richness	High Diversity	Ale Dry
+Spiced Beer	Hot fermented	Other	Low Evenness	High Richness	High Diversity	Ale Dry
+Belgian Ale	Hot fermented	Belgium	Low Evenness	Low Richness	High Diversity	Ale Dry
+Strong Belgian Ale	Hot fermented	Belgium	Low Evenness	Low Richness	High Diversity	Ale Dry
+American Porter and Stout	Hot fermented	North America	Low Evenness	Low Richness	High Diversity	Ale Dry
+Alternative Fermentables Beer	Hot fermented	Other	High Evenness	High Richness	Low Diversity	Ale Dry
+Scottish Ale	Hot fermented	UK	High Evenness	Low Richness	Low Diversity	Ale Dry, Ale Liquid
+British Bitter	Hot fermented	UK	High Evenness	Low Richness	Low Diversity	Ale Dry
+Standard American Beer	Hot fermented	North America	Low Evenness	High Richness	Low Diversity	Ale Dry, Lager Dry
+Amber and Brown American Beer	Hot fermented	North America	Low Evenness	Low Richness	Low Diversity	Ale Dry
+Dark British Beer	Hot fermented	UK	Low Evenness	Low Richness	Low Diversity	Ale Dry
+German Wheat Beer	Hot fermented	Germany	Low Evenness	Low Richness	Low Diversity	Ale Dry, Ale Liquid
+IPA	Hot fermented	North America	Low Evenness	Low Richness	Low Diversity	Ale Dry
+Irish Beer	Hot fermented	UK	Low Evenness	Low Richness	Low Diversity	Ale Dry
+Pale American Ale	Hot fermented	North America	Low Evenness	Low Richness	Low Diversity	Ale Dry
+Pale Commonwealth Beer	Hot fermented	Other	Low Evenness	Low Richness	Low Diversity	Ale Dry
+Strong American Ale	Hot fermented	North America	Low Evenness	Low Richness	Low Diversity	Ale Dry
